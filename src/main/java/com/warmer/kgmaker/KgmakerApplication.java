@@ -8,6 +8,7 @@ import org.springframework.context.annotation.ComponentScan;
 @ComponentScan
 public class KgmakerApplication {
 
+
 	public static void main(String[] args) {
 		SpringApplication.run(KgmakerApplication.class, args);
 	}
